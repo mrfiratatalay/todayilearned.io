@@ -1,19 +1,58 @@
-🚀 Hello Github Family! 🚀
+# 🚀 Today I Learned — A Collaborative Knowledge Sharing Platform
 
-After a long development process, I'd like to share with you a project I developed using React and Supabase! The name of my project is "Today I Learned," and I'd like to briefly share with you what I've accomplished in this project:
+Welcome, GitHub Family! 🙌  
+We’re excited to introduce **Today I Learned**, a full-stack web application built with **React** and **Supabase**, where users can share, explore, and vote on daily facts and learning bites.
 
-🔍 Project Description: "Today I Learned" is a platform where users can share daily knowledge and facts. Users can share information based on different categories and allow other users to vote on these pieces of information.
+---
 
-🔥 Key Skills Utilized in This Project:
+## 👥 Team & Collaboration
 
-1️⃣ React Hooks: I effectively utilized useState and useEffect hooks.
-2️⃣ Data Management: I integrated Supabase for database management and optimized data handling.
-3️⃣ User Interface Design: I applied CSS and UI design principles to create a user-friendly interface.
+This project was developed collaboratively by **Fırat Atalay** and **Ayşe Mandıralı** as part of our journey to grow as full-stack developers.  
+We combined our strengths to build this platform together — from database design to frontend development — learning, teaching, and problem-solving side by side.
 
-You can access the project's source code and demos from the links below:
+---
 
-🔗 Source Code: https://github.com/mrfiratatalay/todayilearned.io
+## 🔍 Project Description
 
-🔗 Demo: https://todayfiratlearned.netlify.app/
+**Today I Learned** is a platform where users can:
+- Share useful facts and knowledge they’ve learned, categorized by topic
+- Vote on contributions by other users
+- Explore a collective learning wall, updated daily
 
-If you have any feedback or questions regarding my project, please feel free to share! Thank you! 🚀🔥
+The goal is to make learning social, fun, and collaborative.
+
+---
+
+## 🔧 Technologies & Key Skills
+
+- **React.js**: Built dynamic UI with reusable components and modern hooks like `useState`, `useEffect`.
+- **Supabase**: Used for real-time database management and user-friendly backend services.
+- **CSS**: Designed a responsive and clean interface focused on user experience.
+- **Version Control & Teamwork**: Practiced collaborative development with Git, GitHub Projects, and code reviews.
+
+---
+
+## 🎯 What We Learned
+
+- Building a full-stack project from scratch
+- Effective collaboration in a remote team
+- State and effect management in React
+- Structuring Supabase tables and queries
+- How to give and receive feedback constructively during development
+
+---
+
+## 🔗 Links
+
+- 🧠 [Live Demo](https://todayfiratlearned.netlify.app/)
+- 💻 [Source Code](https://github.com/mrfiratatalay/todayilearned.io)
+
+---
+
+## 🙌 Feedback
+
+We’d love to hear what you think!  
+If you have suggestions, ideas, or questions, feel free to open an issue or drop us a message.
+
+Thanks for checking out our project! 🚀  
+*— Fırat Atalay & Ayşe Mandıralı*
